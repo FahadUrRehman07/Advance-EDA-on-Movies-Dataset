@@ -30,7 +30,5 @@ A practical exploratory data analysis project demonstrating advanced use of **Pa
 ## 📌 Project Type
 
 Data Analysis / Exploratory Data Analysis
-
 ---
-
 **Author:** Fahad Ur Rehman
