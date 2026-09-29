@@ -27,10 +27,6 @@ A practical exploratory data analysis project demonstrating advanced use of **Pa
 5. Visualization
 6. Interpretation of findings
 
-## ▶️ Getting Started
-
-Clone the repository and open the project notebook in Jupyter Notebook or Google Colab.
-
 ## 📌 Project Type
 
 Data Analysis / Exploratory Data Analysis
